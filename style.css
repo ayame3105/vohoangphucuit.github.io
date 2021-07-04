@@ -1,0 +1,106 @@
+body {
+    overflow: none;
+  }
+  h1 {
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+    height: 0.15em;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+  }
+  
+  h2 {
+    font-family: 'Orbitron', sans-serif;
+    position: relative;
+    bottom: 60px;
+    left: 260px;
+  }
+  
+   .navbar-fixed-top {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height: 50px;
+    background-color: white;
+    z-index: 999;
+  }
+  
+  .nav__item {
+      display: inline-block;
+  }
+  
+  .nav__link {
+    padding: 15px;
+    color: black;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
+    transition: border-bottom-color 0.5s ease-out;
+    transition: border-top-color 0.5s ease-out;
+    -webkit-transition: border-top-color 0.5s ease-out;
+    -webkit-transition: border-bottom-color 0.5s ease-out;
+  }
+  
+  .nav__link:hover {
+    color: black;
+    border-bottom-color: black;
+    border-top-color: black;
+  }
+  
+  p {
+    width: 700px;
+    height: 100px;
+    padding-bottom: 5%;
+    margin-left: 310px;
+    text-align: leftr;
+  }
+  
+  .mySlides {
+    margin: 20px 20px 20px 70px;
+    height: 400px;
+    width: 400px;
+    
+  }
+  
+  .button1{
+    margin-left: 190px;
+    margin-right: 30px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
+button a{color:#fff!important;padding:.5em 3em;display:block}
+button:hover a{color:cornflowerblue!important;text-decoration:none!important}
+button:hover{background:transparent}
+button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
+button:after{right:inherit;top:inherit;left:0;bottom:0}
+button:hover:before,button:hover:after{width:100%;transition:800ms ease all}
+
+.button2{
+    margin-right: 30px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
+button a{color:#fff!important;padding:.5em 3em;display:block}
+button:hover a{color:cornflowerblue!important;text-decoration:none!important}
+button:hover{background:transparent}
+button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
+button:after{right:inherit;top:inherit;left:0;bottom:0}
+button:hover:before,button:hover:after{width:100%;transition:800ms ease all}
+  
+.button3{
+    margin-right: 30px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
+button a{color:#fff!important;padding:.5em 3em;display:block}
+button:hover a{color:cornflowerblue!important;text-decoration:none!important}
+button:hover{background:transparent}
+button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
+button:after{right:inherit;top:inherit;left:0;bottom:0}
+button:hover:before,button:hover:after{width:100%;transition:800ms ease all}
+  
