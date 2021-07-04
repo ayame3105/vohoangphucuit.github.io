@@ -72,35 +72,38 @@ body {
     margin-right: 30px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-      background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
-button a{color:#fff!important;padding:.5em 3em;display:block}
-button:hover a{color:cornflowerblue!important;text-decoration:none!important}
-button:hover{background:transparent}
-button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
-button:after{right:inherit;top:inherit;left:0;bottom:0}
-button:hover:before,button:hover:after{width:100%;transition:800ms ease all}
+    background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
+    button a{color:#fff!important;padding:.5em 3em;display:block}
+    button:hover a{color:cornflowerblue!important;text-decoration:none!important}
+    button:hover{background:transparent}
+    button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
+    button:after{right:inherit;top:inherit;left:0;bottom:0}
+    button:hover:before,button:hover:after{width:100%;transition:800ms ease all
+    }
 
 .button2{
     margin-right: 30px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
-button a{color:#fff!important;padding:.5em 3em;display:block}
-button:hover a{color:cornflowerblue!important;text-decoration:none!important}
-button:hover{background:transparent}
-button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
-button:after{right:inherit;top:inherit;left:0;bottom:0}
-button:hover:before,button:hover:after{width:100%;transition:800ms ease all}
+    button a{color:#fff!important;padding:.5em 3em;display:block}
+    button:hover a{color:cornflowerblue!important;text-decoration:none!important}
+    button:hover{background:transparent}
+    button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
+    button:after{right:inherit;top:inherit;left:0;bottom:0}
+    button:hover:before,button:hover:after{width:100%;transition:800ms ease all
+    }
   
 .button3{
     margin-right: 30px;
     border-radius: 8px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     background:cornflowerblue;border:none;position:relative;transition:800ms ease all;outline:none;font:500 16px "Roboto",sans-serif;text-transform:uppercase}
-button a{color:#fff!important;padding:.5em 3em;display:block}
-button:hover a{color:cornflowerblue!important;text-decoration:none!important}
-button:hover{background:transparent}
-button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
-button:after{right:inherit;top:inherit;left:0;bottom:0}
-button:hover:before,button:hover:after{width:100%;transition:800ms ease all}
+    button a{color:#fff!important;padding:.5em 3em;display:block}
+    button:hover a{color:cornflowerblue!important;text-decoration:none!important}
+    button:hover{background:transparent}
+    button:before,button:after{content:'';position:absolute;top:0;right:0;height:2px;width:0;background:#55579e;transition:900ms ease all}
+    button:after{right:inherit;top:inherit;left:0;bottom:0}
+    button:hover:before,button:hover:after{width:100%;transition:800ms ease all
+    }
   
